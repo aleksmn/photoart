@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>aleksmn photoart</title>
-    <link>https://aleksmn.github.io/photoart/</link>
+    <link>https://photoart.vercel.app/</link>
     <description>Recent content on aleksmn photoart</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://aleksmn.github.io/photoart/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://photoart.vercel.app/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
